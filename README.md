@@ -1,0 +1,2 @@
+# ipython-sql-ext
+test
